@@ -28,11 +28,11 @@ Executing the command below, it'll install all the project dependencies and buil
 The app has some command files to use as example
 
 ```
-java -jar build/libs/toy-robot-1.0-SNAPSHOT.jar mov1.txt
+java -jar build/libs/toy-robot-1.0-SNAPSHOT.jar mov01.txt
 ```
 
 ```
-java -jar build/libs/toy-robot-1.0-SNAPSHOT.jar mov2.txt
+java -jar build/libs/toy-robot-1.0-SNAPSHOT.jar mov02.txt
 ```
 
 
